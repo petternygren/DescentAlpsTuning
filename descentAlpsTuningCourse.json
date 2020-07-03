@@ -2,5 +2,6 @@
   "tuneGateFreq":5,
   "tuneGateSize":2,
   "tuneGateOffset":1,
-  "tuneTurnSpeed":1.0
+  "tuneTurnSpeed":1.0,
+  "tuneSpeedFac":1.0
 }
