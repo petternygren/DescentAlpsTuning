@@ -1,4 +1,4 @@
 # DescentAlpsTuning
 Tuning params for Descent Alps
 
-[Tune parameters info](tuneParamsInfo.png)
+![Tune parameters info](tuneParamsInfo.png)
